@@ -72,3 +72,8 @@ This project demonstrates:
 
 Prasad Pediredla
 Aspiring Data Analyst
+---
+
+## 📊 Dashboard Preview
+
+![Dashboard](dashboard.png)
